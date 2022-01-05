@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hendri Alqori ganteng banget",
+      "post": "Lorem ipsum dolor si amer",
+      "time": "Wednesday, January 5, 2022"
+    },
+    {
+      "title": "4 Rudal Israeal menghantam palestina dini hari tadi",
+      "id": 2,
+      "post": "test",
+      "time": "Wednesday, January 5, 2022"
+    },
+    {
+      "title": "test",
+      "id": 3,
+      "post": "test",
+      "time": "Wednesday, January 5, 2022"
+    },
+    {
+      "title": "test 6",
+      "post": "test 6",
+      "time": "Wednesday, January 5, 2022",
+      "id": 4
+    },
+    {
+      "title": "test 1",
+      "post": "test 1",
+      "time": "Wednesday, January 5, 2022",
+      "id": 5
+    },
+    {
+      "title": "test",
+      "post": "test",
+      "time": "Wednesday, January 5, 2022",
+      "id": 6
+    }
+  ]
+}

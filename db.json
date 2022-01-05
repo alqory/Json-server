@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server-hendri",
+      "author": "hendri Alqori"
+    },
+    {
+      "id": 3,
+      "title": "Belajar javascript OOP",
+      "author": "Hendri Alqori"
+    }
+  ],
+  "produk": [
+    {
+      "id": 1,
+      "title": "T-shirt",
+      "price": 20000,
+      "stok": 20
+    },
+    {
+      "id": 2,
+      "title": "Chinos Original",
+      "price": 100000,
+      "stok": 15
+    },
+    {
+      "id": 3,
+      "title": "Chinos Premium",
+      "price": 100000,
+      "stok": 40
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
